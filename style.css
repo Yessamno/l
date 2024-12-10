@@ -454,3 +454,15 @@ body.show-emoji-picker em-emoji-picker {
 .chat-header .maximize-chatbot:hover {
   background: #3d39ac;
 }
+
+#view-history-button {
+  margin-left: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #fff;
+  transition: color 0.2s ease;
+}
+
+#view-history-button:hover {
+  color: #3d39ac;
+}
