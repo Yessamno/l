@@ -237,3 +237,4 @@ chatbotToggler.addEventListener("click", () => document.body.classList.toggle("s
 
 // window.addEventListener("resize", adjustChatbotSize);
 // adjustChatbotSize(); // Call on load
+
